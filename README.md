@@ -12,7 +12,7 @@
 
 ## Build && Install with skynet. (Only test In Skynet v1.2)
 
-  You can achieve fast compilation by simply replacing the `skynet/lua-crypt / Makefile` file with the `skynet / Makefile` file.
+  You can achieve fast compilation by simply replacing the `skynet-lua-crypt/ Makefile` file with the `skynet/Makefile` file.
 
   Finally, You need use `make platform(linux/macosx/freebsd)` to build it.
 
