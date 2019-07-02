@@ -43,6 +43,7 @@
 *.pdb
 
 # Kernel Module Compile Results
+*.DS_Store
 *.mod*
 *.cmd
 .tmp_versions/
